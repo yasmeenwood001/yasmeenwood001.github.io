@@ -7,6 +7,7 @@
     min-height: 56px;
     // Positioning context for the mobile navigation icon
     position: relative;
+    text-align: center;
 }
 
 .site-title {
@@ -16,7 +17,6 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     //float: left;
-    text-align: center;
 
     &,
     &:visited {
